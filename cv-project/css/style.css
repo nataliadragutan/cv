@@ -1,0 +1,139 @@
+/* font-family: 'Merriweather Sans', sans-serif;
+ font-family: 'Montserrat', sans-serif;
+font-family: 'WindSong', cursive;*/
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E9F6F5 ;
+  }
+h1{
+    font-size: 3.5rem;
+    margin-top:7rem;
+    padding-top: 80px auto 0 auto;
+    font-family: 'WindSong', cursive;
+    color: #3d3d3d;
+  }
+h2{
+    font-size: 2rem;
+    font-weight: normal;
+    font-family: 'Merriweather Sans', sans-serif;
+    margin-bottom: 50px;
+    color: #3d3d3d;
+}
+h3{
+    color:#2c2b2b;
+}
+a{
+    color:#2c2b2b;
+}
+p{
+    line-height: 2;
+}
+hr {
+  /*  margin: 50px auto 100px;*/
+    width: 5%;
+    border: 6px dotted;
+    border-style: none none dotted;
+    color: rgb(163, 162, 162)
+  }
+.underline{
+    text-decoration: underline;
+}
+
+.intro{
+    width: 40%;
+    margin: auto
+}
+
+.bottom-cloud{
+    width: 20%;
+    position: absolute;
+    left: 200px;
+    bottom: 350px;
+}
+.top-cloud{
+    width: 20%;
+    position: absolute;
+    right: 300px;
+    top:50px;
+}
+.mountains-image{
+   /* margin-bottom: 20rem;
+    padding-top: 25%;*/
+    width: 70%;
+}
+.top-container{
+    padding-top: 100px;
+}
+.profile{
+    padding:50px 0;
+}
+.profile-image{
+    width: 60%;
+}
+.bottom-container{
+    background-color: #85C8DD;
+    padding: 50px 0 20px;
+    margin-bottom: 0;
+}
+.skills{
+    padding: 60px 0;
+}
+
+.skill-row{
+
+    width: 50%;
+    margin:100px auto;
+    text-align: left;
+}
+.skill-row-image1{
+    width: 30%;
+    float:left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.skill-row-image2{
+    width: 30%;
+    float:right;
+    margin-left: 30px;
+}
+.contact-me{
+    padding-top: 50px;
+}
+.contact-message{
+    width: 40%;
+    margin: 50px auto;
+}
+
+.btn {
+    margin-bottom: 50px;
+    background-color: #F1684E;
+    border-radius: 8px;
+    color: white;
+    font-family:'Montserrat', sans-serif; 
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+  }
+  
+  .btn:hover {
+    background-color: #fb5d3d;
+  }
+.bottom-container{
+      margin-top: 50px;
+      padding-top: 30px;
+}
+
+a{
+    color:#3d3d3d;;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin:10px 20px;
+}
+a:hover{
+    color:rgb(255, 255, 255);
+}
+.copyright{
+    font-size: 0.75rem;
+}
